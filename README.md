@@ -2,7 +2,8 @@
 
 **`Desenvolvedor Front-end`**
 
-Meu nome é Adrian, tenho 24 anos e sou natural de Patrocínio, MG. Concluí o ensino médio na Escola Estadual Tancredo de Almeida Neves, atualmente, estou cursando Sistemas de Informação na UNIPAM.
+Meu nome é Adrian, tenho 24 anos e sou natural de Patrocínio, MG. 
+Concluí o ensino médio na Escola Estadual Tancredo de Almeida Neves, atualmente, estou cursando Sistemas de Informação na UNIPAM.
 Sou apaixonado por tecnologia e gosto de compartilhar meu conhecimento com outras pessoas.
 
 ---
