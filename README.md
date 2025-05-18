@@ -1,10 +1,11 @@
 # 🧑‍💻 Adrian Messias
 
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor Front-end (React | Next.js | Tailwind)`**
 
-Meu nome é Adrian, tenho 24 anos e sou natural de Patrocínio, MG. 
-Concluí o ensino médio na Escola Estadual Tancredo de Almeida Neves, atualmente, estou cursando Sistemas de Informação na UNIPAM.
-Sou apaixonado por tecnologia e gosto de compartilhar meu conhecimento com outras pessoas.
+Meu nome é Adrian Messias, tenho 24 anos, sou de Patrocínio-MG e estudante de Sistemas de Informação na UNIPAM. 
+Sou desenvolvedor front-end com foco em React e Next.js. 
+Apaixonado por tecnologia, gosto de aprender continuamente e compartilhar conhecimento com a comunidade.
+
 
 ---
 
