@@ -10,23 +10,32 @@ Apaixonado por tecnologia, gosto de aprender continuamente e compartilhar conhec
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="NestJS" 
+    title="NestJS" 
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+    style="padding-right: 10px; 
+    background: white; 
+    border-radius: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg"
+    />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Node.js" 
+    title="Node.js" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+    />
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+    />
 <img 
     align="left" 
     alt="JavaScript" 
