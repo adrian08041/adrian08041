@@ -18,7 +18,7 @@ Apaixonado por tecnologia, gosto de aprender continuamente e compartilhar conhec
     style="padding-right: 10px; 
     background: white; 
     border-radius: 5px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg](https://docs.nestjs.com/assets/logo-small-gradient.svg"
     />
 <img 
     align="left" 
