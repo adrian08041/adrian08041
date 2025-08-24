@@ -3,7 +3,7 @@
 **`Desenvolvedor Web Fullstack (Next.js | Node.js | TypeScript | JavaScript)`**
 
 Meu nome é Adrian Messias, tenho 24 anos, sou de Patrocínio-MG e estudante de Sistemas de Informação na UNIPAM. 
-Sou desenvolvedor front-end com foco em React e Next.js. 
+Sou desenvolvedor fullstack com foco em Node e Next. 
 Apaixonado por tecnologia, gosto de aprender continuamente e compartilhar conhecimento com a comunidade.
 
 
