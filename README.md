@@ -1,6 +1,6 @@
 # 🧑‍💻 Adrian Messias
 
-**`Desenvolvedor Web Fullstack (Next.js | Node.js | TypeScript | JavaScript)`**
+**`Desenvolvedor Web Full Stack (Node.js | Next.js | TypeScript | PostgreSQL)`**
 
 Meu nome é Adrian Messias, tenho 24 anos, sou de Patrocínio-MG e estudante de Sistemas de Informação na UNIPAM. 
 Sou desenvolvedor fullstack com foco em Node e Next. 
