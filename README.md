@@ -59,41 +59,11 @@ const adrian = {
 
 ---
 
-## 🌟 Projetos em Destaque
-
-<div align="center">
-
-### 🤖 Poupa AI — Assistente Financeiro Inteligente
-
-|                                                                                                Frontend                                                                                                 |                                                                                               Backend                                                                                                |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [![Poupa AI Frontend](https://github-readme-stats.vercel.app/api/pin/?username=adrian08041&repo=frontend-poupa-ai&theme=tokyonight&hide_border=true)](https://github.com/adrian08041/frontend-poupa-ai) | [![Poupa AI Backend](https://github-readme-stats.vercel.app/api/pin/?username=adrian08041&repo=backend-poupa-ai&theme=tokyonight&hide_border=true)](https://github.com/adrian08041/backend-poupa-ai) |
-
-> 🧠 **Assistente financeiro com IA** para controle de gastos e planejamento financeiro pessoal.
->
-> `Next.js` `Node.js` `TypeScript` `OpenAI` `PostgreSQL`
-
----
-
-### 🍽️ Cardápio Pro — Sistema de Cardápio Digital
-
-|                                                                                         Frontend                                                                                          |                                                                                                 Backend                                                                                                  |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [![Cardápio Pro Frontend](https://github-readme-stats.vercel.app/api/pin/?username=adrian08041&repo=cardapio&theme=tokyonight&hide_border=true)](https://github.com/adrian08041/cardapio) | [![Cardápio Pro Backend](https://github-readme-stats.vercel.app/api/pin/?username=adrian08041&repo=cardapio-backend&theme=tokyonight&hide_border=true)](https://github.com/adrian08041/cardapio-backend) |
-
-> 🍔 **Sistema completo de cardápio digital** para restaurantes com gestão de pedidos, categorias e produtos.
->
-> `Next.js` `Java` `Spring Boot` `PostgreSQL` `Docker`
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrian08041&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrian08041&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://adrian08041.vercel.app/api?username=adrian08041&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true"/>
+  <img height="180em" src="https://adrian08041.vercel.app/api/top-langs/?username=adrian08041&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <br/>
