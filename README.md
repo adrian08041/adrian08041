@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Adrian Messias
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=Desenvolvedor+Full+Stack;Node.js+%7C+Next.js+%7C+TypeScript;Construindo+solu%C3%A7%C3%B5es+incr%C3%ADveis+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Full+Stack;Node.js+%2B+NestJS+%7C+Java+%2B+Spring+Boot;Next.js+%7C+TypeScript+%7C+PostgreSQL;Construindo+APIs+robustas+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
@@ -14,15 +14,19 @@
 
 ```javascript
 const adrian = {
-  localização: "Patrocínio-MG, Brasil 🇧🇷",
+  localização: "Patos de Minas-MG, Brasil 🇧🇷",
   formação: "Sistemas de Informação @ UNIPAM",
-  idade: 24,
-  foco: ["Backend", "Frontend", "APIs RESTful"],
-  paixão: "Transformar ideias em código!",
+  idade: 25,
+  foco: {
+    backend: ["Node.js + NestJS", "Java + Spring Boot"],
+    frontend: ["Next.js", "React"],
+    database: ["PostgreSQL", "Prisma", "JPA/Hibernate"],
+  },
+  paixão: "Construir APIs robustas e interfaces modernas!",
 };
 ```
 
-💡 **Desenvolvedor Full Stack** com foco em **Node.js** e **Next.js**, apaixonado por criar soluções elegantes e performáticas. Sempre em busca de novos desafios e oportunidades de aprendizado contínuo.
+💡 **Desenvolvedor Full Stack** especializado em **NestJS** e **Spring Boot** no backend, com **Next.js** no frontend. Apaixonado por criar soluções escaláveis, APIs RESTful bem estruturadas e interfaces modernas.
 
 ---
 
@@ -63,7 +67,7 @@ const adrian = {
 
 |                                                                                                Frontend                                                                                                 |                                                                                               Backend                                                                                                |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [![Poupa AI Frontend](https://github-readme-stats.vercel.app/api/pin/?username=adrian08041&repo=poupa-ai-frontend&theme=tokyonight&hide_border=true)](https://github.com/adrian08041/poupa-ai-frontend) | [![Poupa AI Backend](https://github-readme-stats.vercel.app/api/pin/?username=adrian08041&repo=poupa-ai-backend&theme=tokyonight&hide_border=true)](https://github.com/adrian08041/poupa-ai-backend) |
+| [![Poupa AI Frontend](https://github-readme-stats.vercel.app/api/pin/?username=adrian08041&repo=frontend-poupa-ai&theme=tokyonight&hide_border=true)](https://github.com/adrian08041/frontend-poupa-ai) | [![Poupa AI Backend](https://github-readme-stats.vercel.app/api/pin/?username=adrian08041&repo=backend-poupa-ai&theme=tokyonight&hide_border=true)](https://github.com/adrian08041/backend-poupa-ai) |
 
 > 🧠 **Assistente financeiro com IA** para controle de gastos e planejamento financeiro pessoal.
 >
@@ -73,9 +77,9 @@ const adrian = {
 
 ### 🍽️ Cardápio Pro — Sistema de Cardápio Digital
 
-|                                                                                                      Frontend                                                                                                       |                                                                                                     Backend                                                                                                      |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [![Cardápio Pro Frontend](https://github-readme-stats.vercel.app/api/pin/?username=adrian08041&repo=cardapio-pro-frontend&theme=tokyonight&hide_border=true)](https://github.com/adrian08041/cardapio-pro-frontend) | [![Cardápio Pro Backend](https://github-readme-stats.vercel.app/api/pin/?username=adrian08041&repo=cardapio-pro-backend&theme=tokyonight&hide_border=true)](https://github.com/adrian08041/cardapio-pro-backend) |
+|                                                                                         Frontend                                                                                          |                                                                                                 Backend                                                                                                  |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [![Cardápio Pro Frontend](https://github-readme-stats.vercel.app/api/pin/?username=adrian08041&repo=cardapio&theme=tokyonight&hide_border=true)](https://github.com/adrian08041/cardapio) | [![Cardápio Pro Backend](https://github-readme-stats.vercel.app/api/pin/?username=adrian08041&repo=cardapio-backend&theme=tokyonight&hide_border=true)](https://github.com/adrian08041/cardapio-backend) |
 
 > 🍔 **Sistema completo de cardápio digital** para restaurantes com gestão de pedidos, categorias e produtos.
 >
