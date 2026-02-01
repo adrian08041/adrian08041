@@ -59,37 +59,6 @@ const adrian = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://adrian08041.vercel.app/api?username=adrian08041&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true"/>
-  <img height="180em" src="https://adrian08041.vercel.app/api/top-langs/?username=adrian08041&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrian08041&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 Troféus GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adrian08041&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="Troféus"/>
-</div>
-
----
-
-## 📈 Atividade Recente
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adrian08041&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de Atividade"/>
-</div>
-
----
-
 ## 🐍 Contribuições
 
 <div align="center">
