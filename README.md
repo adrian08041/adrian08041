@@ -59,6 +59,27 @@ const adrian = {
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/adrian08041">
+    <img src="https://github-readme-stats.vercel.app/api?username=adrian08041&show_icons=true&theme=dracula&custom_title=Métricas%20Gerais&hide_border=true&bg_color=0D1117&icon_color=6C63FF&title_color=6C63FF" height="150" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/adrian08041">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrian08041&layout=compact&theme=dracula&custom_title=Linguagens%20Mais%20Usadas&hide_border=true&bg_color=0D1117&title_color=6C63FF" height="150" alt="Top Languages" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/adrian08041">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrian08041&theme=dracula&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6C63FF&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br/>
+
 ## 🐍 Contribuições
 
 <div align="center">
